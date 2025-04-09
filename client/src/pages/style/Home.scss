@@ -1,0 +1,23 @@
+.homeContainer {
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background-image: url('/icons/DynamixMedia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .getStarted {
+        // border: 2px solid red;
+        margin-top: 20rem;
+        // background-color: gold;
+
+    }
+}
