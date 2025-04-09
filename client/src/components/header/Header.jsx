@@ -1,6 +1,6 @@
-import React from 'react'
-import './Header.scss'
-import { useNavigate } from 'react-router-dom'
+import React from 'react';
+import './Header.scss';
+import { useNavigate } from 'react-router-dom';
 
 function Header() {
     const navigate = useNavigate();
